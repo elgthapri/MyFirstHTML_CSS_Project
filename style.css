@@ -1,0 +1,149 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    background-color: #ebebeb;
+    text-align: justify;
+    padding: 2%;
+}
+
+h1#primeiro {
+    color: #1bb4e8
+}
+.topo {
+    background-color: #21272b;
+    color: white; 
+}
+
+.logo {
+    text-align: left;
+    font-size: 10px;
+    display:inline-block;
+}
+
+.logo img {
+    width: 40%;
+    height: auto;
+    display:inline-block;
+}
+
+.logotexto {
+    float: right;
+    margin-top: -90px;
+    margin-left: 30px;
+}
+
+.menulateral {
+    font-size: 12px;
+    float: right;
+    margin-right: auto; 
+    margin-top: 60px;
+}
+
+.menulateral span {
+    color: #1bb4e8;
+}
+
+.hero {
+    width: 100%;
+}
+
+#barcoprincipal {
+    width: 100%;
+}
+
+.textohero {
+    background: #1a32438e;
+    color: white;
+    width: 30%; 
+    right: 0;  
+    position: absolute;
+    margin-top: -400px;
+    margin-right: 50px;
+    float:right;
+    padding: 40px;
+}
+
+.textohero img {
+    width: 10%;
+}
+
+.textohero h3 {
+    font-size: 28px;
+}
+
+.textolateral {
+    font-size: 20px; 
+    margin-top: -90px;
+    margin-left: 70px;   
+}
+
+.textolateral span {
+    color: #C6B07F;
+}
+
+.destinoefrota {
+    width: 100%;
+    height: 100%;
+    display: inline-block;
+    padding: 10px;
+}
+
+.destinos {
+    width: 48%;
+    float: left;
+}
+
+.destinos h3 {
+    height: 35px;
+    padding: 3px;
+    background: #1bb4e8;
+    color: white;
+}
+
+.destinos img {
+    width: 100%;
+}
+
+.nossafrota {
+    width: 48%;
+    float: right;
+}
+
+.nossafrota h4 {
+    height: 35px;
+    padding: 3px;
+    background: #C6B07F;
+    color: white;
+}
+
+.duplabarcocima {
+    width: 100%;
+    display:inline-block;
+    float: left;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.duplabarcobaixo {
+    display: inline-block;
+    width: 100%;
+    float: right;
+    padding: 5px;
+    margin-right: -20px;
+}
+
+.nossafrota img {
+    position: relative;
+    width: 45%;
+}
+
+#frasefinal {
+    background: rgba(128, 128, 128, 0.596);
+    height: 100%;
+    width: 100%;
+
+}
